@@ -28,8 +28,8 @@ API_KEY=**************************
 ```
 3. If not work use `npm` to install the dotenv package - `npm install dotenv` This will allow us to use environment variables we set in a new file
 4. Start the project
-Command | Action
-:------------: | :-------------:
+
 `npm run build-prod` | Build project
 `npm start` | Run project
+
 - this app runs on localhost:8081, but you can of course edit that in server.js
